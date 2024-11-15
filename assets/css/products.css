@@ -20,6 +20,7 @@ img{
     height: 300px;
     padding: 0px;
     margin: 0x;
+    object-fit: cover;
 }
 
 
